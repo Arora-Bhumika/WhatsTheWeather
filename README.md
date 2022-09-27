@@ -6,7 +6,7 @@
 [![Android Weekly](https://img.shields.io/badge/Android%20Weekly-%23393-06a9f9)](https://androidweekly.net/issues/issue-393)
 [![Student Gallery](https://img.shields.io/badge/Part%20of-Student%20Gallery-9cf?logo=github)](https://education.github.com/pack/gallery#weatherapp)
 [![DevLibrary](https://img.shields.io/badge/Part%20of-DevLibrary-9cf?color=4285F4&logoColor=4285F4&logo=google)](https://devlibrary.withgoogle.com/products/android/repos/furkanaskin-Weatherapp)
-# Weatherapp
+# What's The Weather
 ![appicon](https://user-images.githubusercontent.com/22769589/68296145-f7305d80-00a4-11ea-9cbe-24b18222bfa9.png)
 
 Weatherapp is a simple weather forecast app, which uses some APIs to fetch 5 day / 3 hour forecast data from the [OpenWeatherMap](https://openweathermap.org/forecast5) and to fetch places,cities,counties,coords etc. from [Algolia Places](https://community.algolia.com/places/). The main goal of this app is to be a sample of how to build an high quality Android application that uses the Architecture components, Hilt etc. in Kotlin.
